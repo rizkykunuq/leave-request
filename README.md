@@ -1,6 +1,6 @@
 # Project Spring Boot Final
 
-## Simple SCRUD
+## Simple CRUD
 
 Fitur
 - Model, DTO, Controller
